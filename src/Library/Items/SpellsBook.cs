@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace RoleplayGame
+namespace RoleplayGame : IItemDefense
 {
     public class SpellsBook
     {
